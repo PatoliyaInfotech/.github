@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Patoliya Infotech</h1>
-<h3 align="center">A global leader in consulting, digital transformation, technology, and engineering services for web and mobile apps development.</h3>
+<h1 align="center">Hello 👋, I'm Patoliya Infotech</h1>
+<h3 align="center">Welcome to Patoliya's organization on GitHub where we love all things open source.</h3>
 
 - 📫 How to reach me **sales@patoliyainfotech.com**
 
